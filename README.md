@@ -1,6 +1,6 @@
 ![Monstera.png](./Monstera.png)
 
-Monstera is elegantly designed, a green color scheme that focuses on being simple and easy on the eyes.
+Monstera is elegantly designed, a green vim color scheme that focuses on being simple and easy on the eyes.
 
 # Features 
 - Simple: no configuration required and easy to use
