@@ -11,7 +11,7 @@ Monstera is elegantly designed, a green vim color scheme that focuses on being s
 # Screenshots
 
 # Color Palette
-![Monstera_Palette.png](./Monstera_Palette.png)
+![MonsteraPalette](https://user-images.githubusercontent.com/120442663/207274834-b91fc3ea-e24d-455d-8a05-3237cc613c9f.png)
 
 # License
 MIT License. See `LICENSE.txt` for more information.
